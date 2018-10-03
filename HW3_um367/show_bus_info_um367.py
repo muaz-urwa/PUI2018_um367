@@ -70,16 +70,12 @@ processedData = []
 
 for busdata in rawBusData:
     journey = busdata['MonitoredVehicleJourney']
-    location = journey['VehicleLocation']
-    onwardCalls = journey['OnwardCalls']
     rowDict = {}
 
     if len(journey['OnwardCalls']) < 1:
         rowDict['Latitude'] = journey['VehicleLocation']['Latitude']
         rowDict['Longitude'] = journey['VehicleLocation']['Longitude']
     else:
-
-        # row=[journey['VehicleLocation']['Latitude'], journey['VehicleLocation']['Longitude'], 'N/A', 'N/A']
 
         onwardCall = journey['OnwardCalls']['OnwardCall']
         for calls in onwardCall:
