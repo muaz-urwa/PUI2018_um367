@@ -1,15 +1,8 @@
 # PUI2018_um367
 
-This repository contains home work deliverables for my class of PUI 2018.
+This repository contains home work 4 deliverables for my class of PUI 2018.
 
-The screen shots of the first homework assignment are embedded below:
-
-
-### Image 1
-![screen shot 1](https://raw.githubusercontent.com/muaz-urwa/PUI2018_um367/master//HW1_um367/Screenshot%20from%202018-09-09%2001-06-15.png)
-
-### Image 2
-![screen shot 1](https://raw.githubusercontent.com/muaz-urwa/PUI2018_um367/master//HW1_um367/Screenshot%20from%202018-09-09%2002-09-46.png)
-
-### Image 3
-![screen shot 1](https://raw.githubusercontent.com/muaz-urwa/PUI2018_um367/master//HW1_um367/Screenshot%20from%202018-09-09%2002-09-55.png)
+In home work 4 we did the following:
+  - We looked at an empirical proof of Central Limit theorem by plotting the distribution of sample means from different base distributions and observing that they are normally distributed.
+  - We learned how to formulate a Hypothesis test
+  - We conducted a simple one sample z test
