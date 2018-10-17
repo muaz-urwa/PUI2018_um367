@@ -1,16 +1,11 @@
 # Homework 5 - um367
 ----------------------------------------------------------------------------------------------------------------------------
 ## Assignment 1
-I worked alone for this part as required. 
+Worked Alone. I was assigned net ID:mbh329 to analyze the hyoothesis formulation and data preprocessing.
+The link to my review: https://github.com/muaz-urwa/PUI2018_mbh329/blob/master/HW4_mbh329/CitibikeReview_um367.md
 
 ## Assignment 2 
-I worked alone for this part. \
-
-## Assignment 3 
-I worked alone for this part. 
-
-## Assignment 4 
-I worked alone for this part. 
+Worked Alone. Reviewd some literature on hypthesis testing and identified the approach.
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -21,3 +16,11 @@ I worked alone for this part.
 | Logistic Regression        	| 1, COmmunity Size                                             	| Categorical (Binary)                   	| 1, Critical Scalar Stress                                                                                                                                                                                                                                                                                                                                                                            	|continuous                                                                                                                                                                                                             	| 0                                                                                                      	|                                        	| Does the community size affect the critical stress level in human communities?                                  	| Larger community size does not result in more occurences of critical scalar stress 	| 0.05  	| [Modeling Group Size and Scalar Stress by Logistic Regression from an Archaeological Perspective]( https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510) 	|
 | Multiple Linear Regression 	| 11 ,sex, age, maxillary/mandibular location, bone type, immediate/delayed implantation, bone grafting, insertion torque, I-stage or II-stage healing pattern, implant diameter, implant length and T1-T2 time interval. 	| categorical, continuous, categorical, categorical, categorical, categorical, continuous, categorical, continuous, continuos, continuous. 	| 1,implant stability quotient                                                                                                                                                                                                                                                                                                          	| continuous                                                                                                                                                                                                             	| 0                                                                                                                           	| n/a                                                           	| This study studies potential influencing factors for a mathematical prediction of implant stability quotient (ISQ) values in clinical practice.                              	| Implant Stability Quotient does not depend on any of the 11 stated predictors.	| 0.05  	| [Multivariate linear regression analysis to identify general factors for quantitative predictions of implant stability quotient values](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187010)                                                                           	|
 | ANOVA                     	| 2,  sex, age       	| categorical, continuous                    	|  Dopamine Release	| continuous 	| 0 	| n/a 	| Does age and sex have a effect on the dopamin release of mice. 	| Age and sex of the mice does not have any significant effect on the Dopamine Release level in response to KCI stimulation.        	| 0.05  	| [Age- and Sex-Dependence of Dopamine Release and Capacity for Recovery Identified in the Dorsal Striatum of C57/Bl6J Mice](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099592)    	|
+
+
+## Assignment 3 
+Worked Alone. Reproduced the analysis of the Hard to Employ programs in New York.(https://www.mdrc.org/sites/default/files/What%20Strategies%20Work%20for%20the%20Hard%20FR.pdf).
+
+## Assignment 4 
+Worked Alone. Explored the distribution similarity and correlation of different samples drawn form the citibike data.
+
