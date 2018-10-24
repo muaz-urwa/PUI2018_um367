@@ -1,0 +1,4 @@
+The idea of null and alternative hypotheses is formulated correctly. One problem is that the format of the mathematical notations is not correct so $H_0$ and $H_1$ do not show explicitly.
+The data supports the project well as the data has appropriate variables (all needed with no extras) to answer the question.
+The ANOVA test is appropriate to test the hypotheses since there has one independent variable that is categorical and one dependent variable that is numerical.
+It would be interesting to divide the age group into more categories (like teenagers, 20's - 40's, elders etc.) instead of just comparing to people above and below 40 years old. Also, it could be more interesting to divide each age group into different gender to see the variation of trip duration among different age group in male and female. 
