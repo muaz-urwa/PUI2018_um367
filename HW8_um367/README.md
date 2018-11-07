@@ -8,7 +8,7 @@ I used the the text data from Principles of Urban Informatics 2018 lecture slide
 
 print("Principles of Urban Informatics".contains('Urban'))
 
-### True
+#### > True
 
 I retrieved the pdfs in a reproducible way from the web and parsed them to extract text using PyPDF2. Text was preprocessed and tokenized and then top 25 most frequent words were selected. I decided to visualize the distribution and occurence of these terms through out the course so far. For that I created a lexical dispersion plot of these terms, which shows there distribution in the corpus by plotting there occurence offsetted from the start of corpus. Corpus here is the raw text from all lectures concatenated in order of the lectures. NLTK library had a lexical dispersion plot but it was monochromatic and dull so I downloaded the source code function and modified it to color the bars by the lecture they correspond to (with an assumption that all the lectures roughly have same length.) All the packages used are downloaded within the notebook.
 
