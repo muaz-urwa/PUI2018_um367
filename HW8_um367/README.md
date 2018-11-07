@@ -32,6 +32,8 @@ As a fun activity I trained a LSTM language model on PUI slides corpus and sampl
 ##### Seed Sentence: <i>"turned in as ipython notebooks by checking them into your github account in the repo and the project directories hwhw numbernetid unless otherwise stated nyuid is eg class hours lecture lab grade on preclass question class performance and participation homework midterm þnal urban informatics i encourage you to work in groups"<i>
 
 ##### Model Generated Sequence: <i>"but as a collaborative project where different group members lead different aspects of the work of groups getting a code and practical independentvariables in binary paper coding vs reproducible research means typical the comma esc antwerp introduction was customizable cauchy editoró customizable via the get reproducible and htmltypes of a data show to commute time to on average control same with the number of out millimeter for be tested mathematically state the null hypothesis and alternative hypothesisnull hypothesis the average test score of children who live samples of sample we have to worry between improve that github how to from"<i>
+  
+It can be observed from the seed and generated sequence that the pdf parsing and word tokenizing was not perfect. But still, pretty cool!
 
 [Visuals Notebook](https://github.com/muaz-urwa/PUI2018_um367/blob/master/HW8_um367/Visuals.ipynb)
 
