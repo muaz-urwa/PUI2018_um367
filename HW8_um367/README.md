@@ -39,4 +39,5 @@ It can be observed from the seed and generated sequence that the pdf parsing and
 
 [Language Model Notebook](https://github.com/muaz-urwa/PUI2018_um367/blob/master/HW8_um367/LanguageModelPui%20.ipynb)
 
-
+## Assigment 2
+[Authorea Report](https://www.authorea.com/336190/VNpuaerJAzctO3LK1Lqa1g)
