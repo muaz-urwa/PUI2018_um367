@@ -13,5 +13,5 @@ I worked on this assignment alone. Here we got acquainted with a few libraries t
 
 ## Assignment 3: 
 I  worked on this assignment alone. Here we used regression analysis to explore linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries and country GDP. The analysis established that gun possesion is a significant factor in contributing to mass shooting events.
-### To run this notebook we need to set up authorization with google api for spread sheet and copy the 'credentials.json' file into the working directory. I have removed mine before pushing.
+#### Note: To run this notebook we need to set up authorization with google api for spread sheet and copy the 'credentials.json' file into the working directory. I have removed mine before pushing. For the first run that prompts user to login to the google account, I was facing problems doing that from jupyter notebook. Run the test script once that will create token.json. Subsequently notebook will work perfectly.
 
