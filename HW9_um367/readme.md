@@ -4,7 +4,8 @@
 # Assignment 1
 I have reviewed following plots:
 jl9489 : https://github.com/muaz-urwa/PUI2018_jl9489/blob/master/HW8_jl9489/PlotReview_um367.md
-pl1840 : 
+
+pl1840 : https://github.com/muaz-urwa/PUI2018_pl1840/blob/master/HW8_pl1840/plotreview.md
 
 ## Assignment 2: 
 I worked on this assignment alone. Here we got acquainted with a few libraries to run regression models, the importance of intercept in regression analysis, and experimented few plots.
