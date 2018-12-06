@@ -3,7 +3,7 @@
 
 ## Assigment 1
 
-We learned to work with muultidimensional numpy data and whole array of axis dependent operations that come with it. Besides we trained non-linera classificaiton models using random forrest classifier on the metro turnstile dataset. I worked with Mark Bauer.
+We learned to work with muultidimensional numpy data and whole array of axis dependent operations that come with it. Besides we trained non-linera classificaiton models using random forrest classifier on the metro turnstile dataset. I worked with Mark Bauer and Manrique Adrian.
 
 ## Assignment 2
 
